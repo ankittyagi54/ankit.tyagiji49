@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="60" started-at="2019-01-17T13:37:51Z" finished-at="2019-01-17T13:37:51Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="60" started-at="2019-01-17T13:37:51Z" finished-at="2019-01-17T13:37:51Z">
+      <class name="jenkinsproject_package.JenkinsTestng">
+        <test-method status="PASS" signature="ankit()[pri:0, instance:jenkinsproject_package.JenkinsTestng@270421f5]" name="ankit" duration-ms="10" started-at="2019-01-17T19:07:51Z" finished-at="2019-01-17T19:07:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ankit -->
+        <test-method status="PASS" signature="variable()[pri:0, instance:jenkinsproject_package.JenkinsTestng@270421f5]" name="variable" duration-ms="0" started-at="2019-01-17T19:07:51Z" finished-at="2019-01-17T19:07:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- variable -->
+        <test-method status="PASS" signature="diplay()[pri:0, instance:jenkinsproject_package.JenkinsTestng@270421f5]" name="diplay" duration-ms="0" started-at="2019-01-17T19:07:51Z" finished-at="2019-01-17T19:07:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- diplay -->
+      </class> <!-- jenkinsproject_package.JenkinsTestng -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
